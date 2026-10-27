@@ -1,5 +1,7 @@
-Polska wersja językowa dostępna [TUTAJ](README_PL.md)
- / Polish description available [HERE](README_PL.md)
+Polska wersja językowa dostępna [TUTAJ](README_PL.md) / Polish description available [HERE](README_PL.md)
+
+[Version](#-installation--update-github-standard) | [License](#-authors--credits) | [Supported Languages](#-key-features)
+
 # 🎮 ES-DE Translator v33 — NEON EDITION 🌟
 
 ![Version](https://shields.io)
@@ -19,23 +21,19 @@ Powered by the Bing translation engine, it offers a stunning, state-of-the-art N
 
 <img width="1024" height="537" alt="obraz" src="https://github.com/user-attachments/assets/dc5f2a39-ce28-4a67-8c47-29ea5a032551" />
 
-
 *Dedicated wide text preview and editing window, showing source and target languages side-by-side:*
 
 <img width="1024" height="537" alt="obraz" src="https://github.com/user-attachments/assets/80f1aa78-3cdd-4c34-a89f-182ff7ed11d0" />
-
 
 ### 🟢 Neon B — Theme Translation (Systems / Consoles)
 *A specialized module designed for ES-DE theme creators and customizers. It automatically detects theme folder structures and translates only the `<systemDescription>` tags while playing retro background tracks via the integrated MP3 player.*
 
 <img width="1024" height="537" alt="obraz" src="https://github.com/user-attachments/assets/5902eae1-6e88-42ba-99ee-a653f4e83d8f" />
 
-
 ### 🌍 Fully Multilingual (Interface Auto-Translation Example)
 *The software automatically localizes its own entire user interface upon the first launch in any selected language, generating `.ini` configuration files on the fly.*
 
 <img width="1024" height="537" alt="obraz" src="https://github.com/user-attachments/assets/c418bdf3-dddb-42e4-87ce-66600d63dd8e" />
-
 
 ---
 
@@ -91,3 +89,4 @@ The program is distributed as a convenient, automated `.exe` installer. Simply d
 
 ---
 *This is an open-source, community-driven project. It is not officially affiliated with the ES-DE development team or Microsoft.*
+
