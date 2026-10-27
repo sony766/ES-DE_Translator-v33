@@ -4,9 +4,6 @@ Polska wersja językowa dostępna [TUTAJ](README_PL.md) / Polish description ava
 
 # 🎮 ES-DE Translator v33 — NEON EDITION 🌟
 
-![Version](https://shields.io)
-![License](https://shields.io)
-![Languages Supported](https://shields.io)
 
 **ES-DE Translator** is an independent, feature-rich tool built specifically for the retro-emulation community. It allows for **automated and batch translation of game descriptions (`gamelist.xml`)** as well as **system/console descriptions within themes** for the popular **ES-DE (EmulationStation Desktop Edition)** frontend.
 
