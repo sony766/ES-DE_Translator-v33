@@ -1,6 +1,6 @@
 Polska wersja językowa dostępna [TUTAJ](README_PL.md) / Polish description available [HERE](README_PL.md)
 
-[Version](#-Safety & Architecture (GitHub Standard). | [License](#-authors--credits) | [Supported Languages](#-key-features)
+[[Version](#-safety--architecture-github-standard) | [License](#-authors--credits) | [Supported Languages](#-key-features)
 
 # 🎮 ES-DE Translator v33 — NEON EDITION 🌟
 
