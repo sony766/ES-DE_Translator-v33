@@ -1,4 +1,5 @@
-Polski opis dostępny [TUTAJ](README.md) / Polish description available [HERE](README.md)
+Polska wersja językowa dostępna [TUTAJ](README_PL.md)
+ / Polish description available [HERE](README_PL.md)
 # 🎮 ES-DE Translator v33 — NEON EDITION 🌟
 
 ![Version](https://shields.io)
