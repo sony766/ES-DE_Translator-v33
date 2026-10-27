@@ -1,9 +1,7 @@
-English description available [HERE](README_EN.md) / Angielska wersja dostępna [TUTAJ](README_EN.md)
-# 🎮 ES-DE Translator v33 — NEON EDITION 🌟
+English description available [HERE](README.md) / Angielska wersja dostępna [TUTAJ](README.md)
 
-![Wersja](https://shields.io)
-![Licencja](https://shields.io)
-![Wsparcie Języków](https://shields.io)
+[Wersja](#wersja-finalna-es-de-translator-v1---v31) | [Licencja](#podziękowania) | [Wsparcie Języków](#es-de-translator-v1-potrafi-mn)
+
 
 **ES-DE Translator** to niezależne, zaawansowane narzędzie stworzone dla społeczności retro-emulacji. Program pozwala na **automatyczne i masowe tłumaczenie opisów gier (`gamelist.xml`)** oraz **opisów systemów/konsol w motywach** dla popularnego frontendu **ES-DE (EmulationStation Desktop Edition)**.
 
